@@ -1,0 +1,16 @@
+Revert "Revert "Revert "renamed workflow, added deploy job"""
+
+This reverts commit 20bc985bb776d81f3e0de4791706a1259f9f8158.
+
+# Bitte geben Sie eine Commit-Beschreibung für Ihre Änderungen ein. Zeilen,
+# die mit '#' beginnen, werden ignoriert, und eine leere Beschreibung
+# bricht den Commit ab.
+#
+# Auf Branch master
+# Ihr Branch ist 2 Commits vor 'origin/master'.
+#   (benutzen Sie "git push", um lokale Commits zu publizieren)
+#
+# Zum Commit vorgemerkte Änderungen:
+#	gelöscht:       .github/workflows/deployment.yml
+#	neue Datei:     .github/workflows/test.yml
+#
